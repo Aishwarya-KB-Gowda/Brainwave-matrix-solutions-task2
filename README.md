@@ -23,8 +23,7 @@ Welcome to the Password Strength Checker project! This tool is designed to help 
 5. [Algorithm Explanation](#algorithm-explanation)
 6. [Example Outputs](#example-outputs)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+8. [Contact](#contact)
 
 ---
 
