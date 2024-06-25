@@ -126,9 +126,7 @@ Contributions to enhance the Password Strength Checker are welcome! Please follo
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Aishwarya-KB-Gowda/Brainwave-matrix-solutions-task2/blob/main/LICENSE) file for details.
 
 ---
 
