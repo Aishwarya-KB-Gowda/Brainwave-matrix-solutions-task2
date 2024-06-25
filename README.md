@@ -128,7 +128,6 @@ Contributions to enhance the Password Strength Checker are welcome! Please follo
 
 
 
----
 
 ## Contact
 
